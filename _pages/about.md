@@ -12,7 +12,7 @@ redirect_from:
 * My research interest is to investigate the Process-Structure-Property relationship during Selective Laser Melting (SLM) process using physics-based modelling and machine learning algorithms. My ultimate goal is to construct the process-structure-property relationship in additive manufacturing for optimization of process and design. 
 * I received my Bachelor’s Degree in [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). My undergraduate research advisors are Prof. [Yiming Rong](https://mee.sustech.edu.cn/2016/node1_0809/130.html) and Prof. [Gang Wang](https://www.tsinghua.edu.cn/publish/jxxen/4192/2014/20141108142525343207364/20141108142525343207364_.html).
 
-[Curriculum Vitae](http://dehaoliu.github.io/files/DehaoLiu_CV.pdf)
+* Welcome to view my latest [Curriculum Vitae](http://dehaoliu.github.io/files/DehaoLiu_CV.pdf) if you want to learn more about me.
 
 # Recent News
 * July 16, 2019. One paper was accpeted to Journal of Mechanical Design.
