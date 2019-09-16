@@ -6,6 +6,8 @@ author_profile: true
 
 ## Multiscale Simulation of Manufacturing Process
 
+Cao L., **Liu D.**, Jiang P., Shao X., Zhou Q., and Wang Y. (2019). [Multi-physics simulation of dendritic growth in magnetic field assisted solidification](https://www.sciencedirect.com/science/article/pii/S001793101930225X). *International Journal of Heat and Mass Transfer*. [[Download PDF]](https://dehaoliu.github.io/files/2019_HMT.pdf)
+
 **Liu D.** and Wang Y. “Simulation of nucleation and grain growth in selective laser melting of Ti-6Al-4V alloy.” Proceedings of 2019 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE2019), August 18-21, 2019, Anaheim, California, Paper No. DETC2019-97684.
 
 Sestito J.M., **Liu D.**, Lu Y., Song J.-H., Tran A.V., Kempner M.J., Harris T.A.L., Ahn S.-H., and Wang Y. (2019) Multiscale process modeling of shape memory alloy fabrication with directed energy deposition. Additive Manufacturing for Multifunctional Materials and
@@ -28,7 +30,7 @@ Nie, Z., Wang, G., Yu, J., **Liu, D.**, & Rong, Y. K. (2016). [Phase-based const
 **Liu, D.**, Wang, G., Nie, Z., & Rong, Y. K. (2014, June). [Numerical Simulation of the Austenitizing Process in Hypoeutectoid Fe-C Steels](https://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1913923). In ASME 2014 International Manufacturing Science and Engineering Conference collocated with the JSME 2014 International Conference on Materials and Processing and the 42nd North American Manufacturing Research Conference (pp. V001T01A004-V001T01A004). American Society of Mechanical Engineers. [[Download PDF]](https://dehaoliu.github.io/files/2014_MSEC.pdf)
 
 ## Physics-constrained Machine Learning
-**Liu, D.**, & Wang, Y. (2019). Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling. Journal of Mechanical Design, 1-35.
+**Liu, D.**, & Wang, Y. (2019). [Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling](https://asmedigitalcollection.asme.org/mechanicaldesign/article/doi/10.1115/1.4044400/956256/Multi-Fidelity-Physics-Constrained-Neural-Network). *Journal of Mechanical Design*, 1-35. [[Download PDF]](https://dehaoliu.github.io/files/2019_JMD.pdf)
 
 **Liu D.** and Wang Y. “Multi-fidelity physics-constrained neural network and its application in materials modeling.” Proceedings of 2019 ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE2019), August 18-21, 2019, Anaheim, California, Paper No. DETC2019-98115. 
 
