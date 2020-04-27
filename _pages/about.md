@@ -18,15 +18,10 @@ redirect_from:
 The overall goal of my research is to establish comprehensive and robust **process-structure-property (P-S-P) relationships** for the systematic process and materials design by combining **multiscale multiphysics simulation** and **physics-constrained machine learning**. The main research thrust areas are listed as follows.
 
 * Multiscale Multiphysics Modeling and Simulation
-	In this research direction, I aim to utilize the **Integrated Computational Materials Engineering (ICME)** approach to establish P-S-P relationships by integrating models at multiple length scales. Specifically, various models, from macro-scale (finite element, finite volume), mesoscale (phase-field method, thermal lattice Boltzmann method, kinetic Monte Carlo), to nano-scale (molecular dynamics, density functional theory), are integrated to make an accurate forward prediction of material properties or behavior. A multiphysics simulation framework called **phase-field and thermal lattice Boltzmann method (PF-TLBM)** has been developed to predict microstructure evolution in metal additive manufacturing, whereas others remain as future work.
 
 * Physics-Constrained Machine Learning
-	Machine learning (ML) models such as neural networks and deep learning models have been applied successfully in diverse fields. Nevertheless, data sparsity is still the main challenge to apply these models to solve complex scientific and engineering problems. The root cause is the **“curse of dimensionality”** in training these models. Training algorithms need to explore and exploit in a very high dimensional nonlinear parameter space to search the optimal parameters for complex models. This research direction aims to develop novel, robust, and data-efficient physics-constrained machine learning models to alleviate the curse of dimensionality during the construction of P-S-P relationships. A **multi-fidelity physics-constrained neural network (MF-PCNN)** has been developed to be applied in materials modeling. A **physics-constrained neural network with minimax architecture (PCNN-MM)** has been developed to systematically adjust the relative importance of training data and prior knowledge. A new saddle point search method called **Dual-Dimer method** has been developed to search **highorder saddle points** of nonconvex-nonconcave objective functions.
 
 * Scalable Versatile Bayesian Optimization
-	Once P-S-P relationships are established, the classical Bayesian optimization framework can be used to conduct process and materials design. Since real engineering optimization problems are usually high-dimensional, constrained, and multi-objective, some extensions are needed to make the Bayesian optimization framework more versatile.
-
-
 
 # Recent News
 * February 7, 2020. One paper entitleed ["Multiphysics simulation of nucleation and grain growth in selective laser melting of alloys"](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4046543/1075062/Multiphysics-Simulation-of-Nucleation-and-Grain) was accpeted to Journal of Computing and Information Science in Engineering.
