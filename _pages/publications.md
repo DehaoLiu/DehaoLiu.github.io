@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Multiscale Multiphysics Simulation
-**Liu D.** and Wang Y. (2020) [Multiphysics simulation of nucleation and grain growth in selective laser melting of alloys](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4046543/1075062/Multiphysics-Simulation-of-Nucleation-and-Grain). Journal of Computing and Information Science in Engineering, (in press).[[Download PDF]](https://dehaoliu.github.io/files/2020_JCISE.pdf)
+**Liu D.** and Wang Y. (2020) [Multiphysics simulation of nucleation and grain growth in selective laser melting of alloys](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4046543/1075062/Multiphysics-Simulation-of-Nucleation-and-Grain). *Journal of Computing and Information Science in Engineering*, (in press).[[Download PDF]](https://dehaoliu.github.io/files/2020_JCISE.pdf)
 
 Sestito J.M., **Liu D.**, Lu Y., Song J.-H., Tran A.V., Kempner M.J., Harris T.A.L., Ahn S.-H., and Wang Y. (2019) Multiscale process modeling of shape memory alloy fabrication with directed energy deposition. Additive Manufacturing for Multifunctional Materials and
 Structures, eds. by H. Bruck, Y. Chen, and S.K. Gupta (in press). 
