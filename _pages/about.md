@@ -11,7 +11,7 @@ redirect_from:
 * I am a Ph.D. student in the [School of Mechanical Engineering](https://www.me.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), advised by Prof. [Yan Wang](https://www.me.gatech.edu/faculty/wang-y) in the [Multi-Scale Systems Engineering Research Group](https://msse.gatech.edu/). My dissertation title is "*Investigation of process-structure relationship for additive manufacturing with multiphysics simulation and physics-constrained machine learning*".
 * I received my Bachelor’s Degree in [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). My undergraduate research advisors are Prof. [Yiming Rong](https://mee.sustech.edu.cn/2016/node1_0809/130.html) and Prof. [Gang Wang](https://www.tsinghua.edu.cn/publish/jxxen/4192/2014/20141108142525343207364/20141108142525343207364_.html).
 
-* Welcome to view my latest [Curriculum Vitae](http://dehaoliu.github.io/files/DehaoLiu_CV.pdf) if you want to learn more about me.
+* I am actively looking for a postdoc in additive manufacturing and machine learning. Welcome to view my latest [Curriculum Vitae](http://dehaoliu.github.io/files/DehaoLiu_CV.pdf) if you want to learn more about me.
 
 
 # Research Interests
