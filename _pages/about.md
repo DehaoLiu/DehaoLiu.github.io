@@ -24,6 +24,7 @@ The overall goal of my research is to establish comprehensive and robust **proce
 * Scalable Versatile Bayesian Optimization
 
 # Recent News
+* January 7, 2021. One paper entitleed ["A Dual-Dimer method for training physics-constrained neural networks with minimax architecture"](https://www.sciencedirect.com/science/article/pii/S0893608020304536?dgcid=coauthor) was accpeted to Neural Networks.
 * February 7, 2020. One paper entitleed ["Multiphysics simulation of nucleation and grain growth in selective laser melting of alloys"](https://asmedigitalcollection.asme.org/computingengineering/article/doi/10.1115/1.4046543/1075062/Multiphysics-Simulation-of-Nucleation-and-Grain) was accpeted to Journal of Computing and Information Science in Engineering.
 * July 16, 2019. One paper entiled ["Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling"](https://asmedigitalcollection.asme.org/mechanicaldesign/article/141/12/121403/956256/Multi-Fidelity-Physics-Constrained-Neural-Network) was accpeted to Journal of Mechanical Design.
 * April 8, 2019. Two papers were accepted to IDETC/CIE 2019.
