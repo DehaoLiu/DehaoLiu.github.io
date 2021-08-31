@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Postdoctoral Researcher in the [Computational Materials Science Lab](https://arroyavelab.tamu.edu/) and [Scientific Machine Learning Lab](https://sciml.tamids.tamu.edu/)at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Raymundo Arroyave](https://engineering.tamu.edu/materials/profiles/arroyave-raymundo.html) and Prof. [Ulisses Braga-Neto](https://engineering.tamu.edu/electrical/profiles/ubraganeto.html).
+* I am a Postdoctoral Researcher in the [Computational Materials Science Lab](https://arroyavelab.tamu.edu/) and [Scientific Machine Learning Lab](https://sciml.tamids.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Raymundo Arroyave](https://engineering.tamu.edu/materials/profiles/arroyave-raymundo.html) and Prof. [Ulisses Braga-Neto](https://engineering.tamu.edu/electrical/profiles/ubraganeto.html).
 
 * I received my Ph.D. from at the [School of Mechanical Engineering](https://www.me.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), advised by Prof. [Yan Wang](https://www.me.gatech.edu/faculty/wang-y) in the [Multi-Scale Systems Engineering Research Group](https://msse.gatech.edu/). My dissertation title is "*Investigation of process-structure relationship for additive manufacturing with multiphysics simulation and physics-constrained machine learning*".
 
